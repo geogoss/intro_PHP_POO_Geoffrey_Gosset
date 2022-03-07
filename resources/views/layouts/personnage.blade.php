@@ -17,6 +17,7 @@ class Personnage
         $this->setCouleurCasquette($couleur);
     }
 
+
     // Méthodes -> simples fonctions
     public function getForce()
     {
